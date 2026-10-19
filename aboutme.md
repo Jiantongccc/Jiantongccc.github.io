@@ -1,16 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Jiantong Cui, and I am currently a PhD student at Nanjing University, working with Prof. Qiusheng Gu. I expect to complete my PhD in June 2027. From 2025 to 2026, I also spent a year as a visiting PhD student at the University of Groningen, working with Prof. Filippo Fraternali.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My research has involved multi-wavelength observations of galaxies, including MaNGA and interferometric observations from the IRAM 30-m telescope and NOEMA. I have worked on the stellar population properties of galaxies as well as the kinematics of atomic and molecular gas. I have also used numerical simulations to investigate the physical mechanisms underlying some of the observational trends I found. More recently, I have become particularly interested in the baryonic content and angular momentum of galaxies, and how they acquire and retain these properties from their surrounding environment.
